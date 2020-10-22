@@ -1,5 +1,5 @@
 # apollo-client-test
-# run yarn test
+
 
 
 Thank you for giving me the chance to show my code to you. 
