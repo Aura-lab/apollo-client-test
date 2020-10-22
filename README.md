@@ -1,4 +1,6 @@
 # apollo-client-test
+# run yarn test
+
 
 Thank you for giving me the chance to show my code to you. 
 Regrettably, Typescrip is more concise than Javascript, I still use JS this time as I am accustomed to use it.
